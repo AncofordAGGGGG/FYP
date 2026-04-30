@@ -99,3 +99,10 @@ malware-detection/
 ├── requirements.txt
 ├── README.md
 ```
+
+## Conclusion
+This project demonstrates that system call n-gram features can effectively capture behavioral patterns of programs. By incorporating sequential information, machine learning models can accurately distinguish malicious software from normal programs.
+
+## Note
+Dataset is not included due to size.
+Please download ADFA-LD dataset separately.
